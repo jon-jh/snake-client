@@ -3,6 +3,7 @@
 
 ## Final Product
 
+https://github.com/jon-jh/snake-client/blob/master/game.png?raw=true
 
 ## Getting Started
 
