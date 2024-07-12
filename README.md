@@ -1,7 +1,5 @@
 # Snake Client Project
 
-To run the game, first run npm run play from the snek-multiplayer folder.
-Then, run play.js from the 'client' folder.
 
 ## Final Product
 
