@@ -5,8 +5,8 @@ WASD moves the snake and t or g send a pre-set message.
 The internal folder called separated version contains the same game, but with some slightly module separated code.
 
 ## Final Product
+![Screenshot of the app](game.png)
 
-https://github.com/jon-jh/snake-client/blob/master/game.png?raw=true
 
 ## Getting Started
 
