@@ -1,4 +1,4 @@
-// SET UP CONNECTION //
+// Connect
 let host = 'localhost';
 let port = '50541';// Declare the host and port as variables so we can use them in strings if we want later.
 
@@ -17,3 +17,4 @@ const setupInput = function() {
 };
 
 module.exports = { config, host, port, setupInput };
+

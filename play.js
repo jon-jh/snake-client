@@ -1,6 +1,5 @@
 // We are only making the 'client' part of this game. the 'server' part is already running, as Snek.js.
 
-// ADD BUILT IN NODE PACKAGES //
 const net = require('net');
 const readline = require('readline').emitKeypressEvents(process.stdin);
 // readline is an event listener for the terminal. we need it to read the 'keypress' node function in process.stdin.on('keypress').
